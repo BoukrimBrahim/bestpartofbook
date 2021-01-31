@@ -1,0 +1,41 @@
+{
+  "1": {
+    "idqout": "1",
+    "qoutContent": "Everyone, when they are young, knows what their destiny is. At that point in their lives, everything is clear a",
+    "idwriter": "3",
+    "idbook": "1",
+    "coverimage": "OTOL.jpg",
+    "titlebook": "The Alchemist",
+    "description": "Everyone, when they are young, knows what their destiny is. At that point in their lives, everything is clear and everything is possible. They are not afraid to dream, and to yearn for everything they would like to see happen to them in their lives. But, ",
+    "urlbook": "https://amzn.to/2Yu0qDv",
+    "image": "Coelhopaulo2.jpg",
+    "fullname": "Paulo Coelho",
+    "wdescription": "Paulo Coelho"
+  },
+  "2": {
+    "idqout": "2",
+    "qoutContent": "Before a dream is realized the Soul of the World tests everything that was learned along the way. It does this ",
+    "idwriter": "3",
+    "idbook": "1",
+    "coverimage": "OTOL.jpg",
+    "titlebook": "The Alchemist",
+    "description": "Everyone, when they are young, knows what their destiny is. At that point in their lives, everything is clear and everything is possible. They are not afraid to dream, and to yearn for everything they would like to see happen to them in their lives. But, ",
+    "urlbook": "https://amzn.to/2Yu0qDv",
+    "image": "Coelhopaulo2.jpg",
+    "fullname": "Paulo Coelho",
+    "wdescription": "Paulo Coelho"
+  },
+  "3": {
+    "idqout": "3",
+    "qoutContent": "Don’t give in to your fears”, said the alchemist, in a strangely gentle voice. “If you do, you won’t be able to",
+    "idwriter": "3",
+    "idbook": "1",
+    "coverimage": "OTOL.jpg",
+    "titlebook": "The Alchemist",
+    "description": "Everyone, when they are young, knows what their destiny is. At that point in their lives, everything is clear and everything is possible. They are not afraid to dream, and to yearn for everything they would like to see happen to them in their lives. But, ",
+    "urlbook": "https://amzn.to/2Yu0qDv",
+    "image": "Coelhopaulo2.jpg",
+    "fullname": "Paulo Coelho",
+    "wdescription": "Paulo Coelho"
+  }
+}
